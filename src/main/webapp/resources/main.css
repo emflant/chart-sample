@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+#chart {
+	width: 1200;
+	display: block;
+}
+
+#pie_chart_div{
+	
+	width: 500;
+	display: block;
+	float:left;
+}
+
+#area_chart_div{
+	width: 600;
+	height: 400;
+	display: block;
+	float:left;
+	vertical-align: bottom;
+}

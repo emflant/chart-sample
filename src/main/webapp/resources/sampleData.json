@@ -1,0 +1,14 @@
+{
+	"cols": [
+		{"id":"","label":"토핑","pattern":"","type":"string"},
+		{"id":"","label":"갯수","pattern":"","type":"number"}
+	],   
+	
+	"rows": [
+		{"c":[{"v":"버섯","f":null},{"v":3,"f":null}]},
+		{"c":[{"v":"양파","f":null},{"v":1,"f":null}]},
+		{"c":[{"v":"올리브","f":null},{"v":2,"f":null}]},
+		{"c":[{"v":"호박","f":null},{"v":1,"f":null}]},
+		{"c":[{"v":"페퍼로니 ","f":null},{"v":2,"f":null}]}
+	] 
+}
